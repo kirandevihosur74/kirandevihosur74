@@ -1,3 +1,5 @@
+## <span style="color: blue;">नमस्ते(Namaste) :pray:, I'm Kiran Devihosur </span>
+
 - 👋 Hi, I’m Kiran Devihosur
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Django
