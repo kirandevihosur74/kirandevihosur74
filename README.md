@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning new web frameworks such as Django, Flask, Angular.
 - 💞️ I’m looking to collaborate on 
 - 📫 You can reach me out 
-- [<img src="https://img.shields.io/badge/LinkedIn-%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kiran-devihosur/)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirandevihosur74&show_icons=true&theme=radical)
 
