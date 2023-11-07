@@ -9,7 +9,6 @@
 </a>
 </p>
 
-  
 - 🎓 I’m a current Data science graduate student at University of Colorado Boulder
 - 👀 I’m currently exploring  in Full Stack Web Development Area. 
 - 🌱 I’m currently learning new web frameworks such as Django, Flask, Angular.
