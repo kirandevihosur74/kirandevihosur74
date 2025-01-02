@@ -10,10 +10,10 @@
 </a>
   
 - 🎓 I’m a current Data science graduate student at University of Colorado Boulder
-- 👀 I’m currently exploring  in Full Stack Web Development Area. 
+- 👀 I’m currently exploring  in Full Stack Web Development and Data Science Area. 
 - 🌱 I’m currently learning new web frameworks such as Django, Flask, Angular.
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 You can reach me out by mail kiran.devihosur@colorado.edu
+- 💞️ I’m looking to collaborate on web development/machine learning projects
+- 📫 You can reach me out by mail kirandevihosur74@gmail.com
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirandevihosur74&show_icons=true&theme=radical)
 
