@@ -1,27 +1,86 @@
-## <span style="color: blue;">नमस्ते(Namaste) :pray:, I'm Kiran Devihosur </span>
+## 👋 Hi, I'm Kiran Devihosur — Full Stack Developer & AI Enthusiast
 
-<p dir="auto">
-  <a rel="nofollow">
-  <img src="https://img.shields.io/badge/CU%20Boulder-Graduate%20Student-579ACA.svg?logo=data:image/png;base64,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">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kiran-devihosur/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:kirandevihosur74@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?logo=gmail" alt="Email">
+  </a>
+  <img src="https://img.shields.io/badge/CU%20Boulder-Alumni-579ACA" alt="CU Boulder">
+</p>
 
-<a href="https://www.linkedin.com/in/kiran-devihosur/">
-  <img src="https://img.shields.io/badge/My-LinkedIn-blue">
-</a>
-  
-- 🎓 I’m a current Data science graduate student at University of Colorado Boulder
-- 👀 I’m currently exploring  in Full Stack Web Development and Data Science Area. 
-- 🌱 I’m currently learning new web frameworks such as Django, Flask, Angular.
-- 💞️ I’m looking to collaborate on web development/machine learning projects
-- 📫 You can reach me out by mail kirandevihosur74@gmail.com
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirandevihosur74&show_icons=true&theme=radical)
+🚀 **About Me**
 
-<p dir="auto"><strong>Visitors Count</strong></p>
+```python
+class KiranDevihosur:
+    recently_graduated = True  # MS in Data Science @ CU Boulder
+    interests = ["Full Stack Development", "AI/ML Integration", "Open Source"]
+    looking_for = "Full Stack Engineer role with ML/AI focus"
+    email = "kirandevihosur74@gmail.com"
+```
 
-![Visitor Count](https://profile-counter.glitch.me/{kirandevihosur74}/count.svg)
+Hey there! I'm a full-stack developer and data scientist who enjoys blending clean code with powerful AI features. I recently earned my Master's from CU Boulder and am now on the lookout for exciting software engineering roles where I can make an impact!
 
-### Languages and Tools:
-| <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> | <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>| <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  | <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> | <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> | <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> |
-| --- | --- | --- | --- | ---| --- | --- | --- |
+---
 
+🧠 **Current Focus**
+
+- 🎯 Open to full-time **Full Stack Software Engineer** roles (with AI/ML integration)
+- 💻 Actively contributing to **open-source projects** and looking to collaborate
+- 🛠️ Exploring advanced backend & ML tech (FastAPI, Kafka, Transformers, LangChain)
+- 🌐 Building smart web apps with **React**, **Next.js**, and **Python** backends
+
+---
+
+### 🔧 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-ChatGPT-10a37f?logo=openai&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Gemini-4285F4?logo=google&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirandevihosur74&show_icons=true&theme=radical" alt="Kiran's GitHub stats">
+</p>
+
+🌟 **Fun Facts**
+
+- 💬 Ask me about building **AI-powered web apps**
+- 🧩 I enjoy solving complex problems and turning ideas into scalable systems
+- 🎨 Outside code, I enjoy photography, exploring cities, and hiking in the wild
+
+---
+
+### 🤝 Let's Collaborate!
+
+I'm currently open to:
+- 📢 **Job opportunities** (Full Stack / AI-enabled systems)
+- 🌍 **Open-source contributions**
+- 🛠️ Cool side projects & hackathons!
+
+Drop me a message — I’d love to connect and build together!
+
+---
+
+> *“In this age of AI agents, I’m all about turning ideas into intelligent, practical, and impactful products.”*
