@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Kiran Devihosur — AI Engineer
+## 👋 Hi, I'm Kiran Devihosur — AI/ML Software Engineer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kiran-devihosur/" target="_blank">
@@ -22,7 +22,7 @@ class KiranDevihosur:
     email = "kirandevihosur74@gmail.com"
 ```
 
-Hi there! I’m an AI Engineer with a knack for building intelligent, production-ready systems that combine machine learning with scalable web platforms. With an MS in Data Science from CU Boulder, I specialize in designing LLM pipelines, AI-driven tools, and real-time applications that bring cutting-edge AI to everyday users.
+Hi there! I’m an AI/ML Software Engineer with a knack for building intelligent, production-ready systems that combine machine learning with scalable web platforms. With an MS in Data Science from CU Boulder, I specialize in designing LLM pipelines, AI-driven tools, and real-time applications that bring cutting-edge AI to everyday users.
 
 ---
 
