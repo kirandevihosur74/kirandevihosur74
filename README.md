@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Kiran Devihosur — AI/ML Software Engineer
+## 👋 Hi, I'm Kiran — AI/ML Software Engineer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kiran-devihosur/" target="_blank">
@@ -12,7 +12,7 @@
 
 ---
 
-🚀 **About Me**
+**About Me**
 
 ```python
 class KiranDevihosur:
@@ -26,16 +26,16 @@ Hi there! I’m an AI/ML Software Engineer with a knack for building intelligent
 
 ---
 
-🧠 **Current Focus**
+**Current Focus**
 
-- 🎯 Designing LLM evaluation pipelines and building AI-powered features
-- 🛠️ Building scalable backends with Python, FastAPI, and Kafka
-- 🌐 Developing smart interfaces with React/Next.js for AI agents and dashboards
-- 🔍 Exploring LangChain, RAG pipelines, and fine-tuning for applied AI use-cases
+- Designing LLM evaluation pipelines and building AI-powered features
+- Building scalable backends with Python, FastAPI, and Kafka
+- Developing smart interfaces with React/Next.js for AI agents and dashboards
+- Exploring LangChain, RAG pipelines, and fine-tuning for applied AI use-cases
 
 ---
 
-### 🔧 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
@@ -56,17 +56,11 @@ Hi there! I’m an AI/ML Software Engineer with a knack for building intelligent
 
 ---
 
-📊 **GitHub Stats**
+**Fun Facts**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirandevihosur74&show_icons=true&theme=radical" alt="Kiran's GitHub stats">
-</p>
-
-🌟 **Fun Facts**
-
-- 💬 Ask me about building **AI-powered web apps**
-- 🧩 I enjoy solving complex problems and turning ideas into scalable systems
-- 🎨 Outside code, I enjoy photography, exploring cities, and hiking in the wild
+- Ask me about building **AI-powered web apps**
+- I enjoy solving complex problems and turning ideas into scalable systems
+- Outside code, I enjoy photography, exploring cities, and hiking in the wild
 
 ---
 
