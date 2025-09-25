@@ -18,7 +18,7 @@
 class KiranDevihosur:
     recently_graduated = True  # MS in Data Science @ CU Boulder
     interests = ["AI/ML", "Open Source", "Full Stack Development"]
-    looking_for = "AI Engineer/Software Engineer Roles"
+    looking_for = "AI Engineer/Software Engineer roles"
     email = "kirandevihosur74@gmail.com"
 ```
 
