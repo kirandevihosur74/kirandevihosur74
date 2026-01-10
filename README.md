@@ -16,21 +16,12 @@
 
 ```python
 class KiranDevihosur:
-    interests = ["AI/ML", "Open Source", "Full Stack Development"]
-    looking_for = "AI Engineer/Software Engineer roles"
+    interests = ["AI/ML", "Software Engineering", "Full Stack Development"]
+    looking_for = "Software Engineer/AI/ML roles"
     email = "kirandevihosur74@gmail.com"
 ```
 
 Hi there! I’m an AI/ML Software Engineer with a knack for building intelligent, production-ready systems that combine machine learning with scalable web platforms. With an MS in Data Science from CU Boulder, I specialize in designing LLM pipelines, AI-driven tools, and real-time applications that bring cutting-edge AI to everyday users.
-
----
-
-**Current Focus**
-
-- Designing LLM evaluation pipelines and building AI-powered features
-- Building scalable backends with Python, FastAPI, and Kafka
-- Developing smart interfaces with React/Next.js for AI agents and dashboards
-- Exploring LangChain, RAG pipelines, and fine-tuning for applied AI use-cases
 
 ---
 
