@@ -70,14 +70,6 @@ Currently **Software Engineer II @ Adobe** (in-app AI for Photoshop); **M.S. Dat
 </p>
 
 ---
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kirandevihosur74&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirandevihosur74&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
-</p>
-
----
-
 <p align="center">
   <b>Building something at the intersection of AI agents and real products? Let's talk.</b><br/>
   <a href="mailto:kirandevihosur74@gmail.com">kirandevihosur74@gmail.com</a> · <a href="https://www.linkedin.com/in/kiran-devihosur/">LinkedIn</a> · <a href="https://www.kirandevihosur.com">Portfolio</a>
