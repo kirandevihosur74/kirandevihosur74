@@ -18,7 +18,7 @@
 ## Currently Building Below products
 
 ### Verrik — the independent trust layer for AI decisions
-[**Live ↗**](https://verrik-web.vercel.app) · [**Code**](https://github.com/kirandevihosur74/Verrik)
+[**Live ↗**](https://verrik-web.vercel.app) 
 
 The "flight recorder and auditor" for AI agents in regulated industries. Captures every AI-agent decision as a
 durable, tamper-evident trace (SHA-256 hash chain) with deterministic replay, runs disparate-impact fairness
@@ -27,7 +27,7 @@ evaluation in shadow mode, and auto-generates regulator-ready audit reports.
 `TypeScript` · `Next.js` · `Fastify` · `PostgreSQL` · `Turborepo`
 
 ### 🧩 DealLens — multi-agent AI due diligence
-[**Live ↗**](https://deallens-bice.vercel.app) · [**Code**](https://github.com/kirandevihosur74/deallens)
+[**Live ↗**](https://deallens-bice.vercel.app)
 
 A planner agent fans out to six department specialists (finance, legal, tech, GTM, ops, people) and a synthesizer
 cross-correlates evidence-cited findings into a risk-scored investment memo — with cost-aware model routing and
